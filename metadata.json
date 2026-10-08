@@ -1,0 +1,6 @@
+{
+  "name": "NOMINUS CAFÉ - Control Cambiario y Anticipos Cafetaleros",
+  "description": "Sistema para control de transferencias en divisas del exterior bajo Convenio Cambiario N° 1, clasificación con IA/ML, gestión de anticipos cafetaleros con contratos formalizados, contabilidad VEN-NIF y justificación ante SENIAT y SUDEBAN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
